@@ -1,3 +1,35 @@
+# ⚠️ 项目状态：已停止维护
+
+> **🚨 重要通知：本项目已停止维护**
+>
+> TEFModLoader 受限于旧版架构设计，已停止开发。我们启动了一个全新的项目 **TEFManager**，采用全新的技术栈和架构设计，与 TEFModLoader 无任何代码或设计继承关系。
+>
+> 请所有用户和开发者移步至新项目：
+>
+> 🔗 **[TEFManager](https://github.com/eternalfuture-e38299/TEFManager)**
+
+---
+
+> **🚨 Important Notice: This project is no longer maintained**
+>
+> TEFModLoader has been discontinued due to architectural limitations. We have started a brand new project **TEFManager** with a completely new technology stack and architecture design, sharing no code or design inheritance with TEFModLoader.
+>
+> Please visit the new project:
+>
+> 🔗 **[TEFManager](https://github.com/eternalfuture-e38299/TEFManager)**
+
+---
+
+> **🚨 Важное уведомление: проект прекратил поддержку**
+>
+> TEFModLoader прекратил разработку из-за ограничений устаревшей архитектуры. Мы запустили совершенно новый проект **TEFManager** с全新的 технологическим стеком и архитектурой, не имеющий никакого кодового или дизайнерского наследования от TEFModLoader.
+>
+> Пожалуйста, перейдите к новому проекту:
+>
+> 🔗 **[TEFManager](https://github.com/eternalfuture-e38299/TEFManager)**
+
+---
+
 # TEFModLoader 🌍 [English](README-en.md) | [Русский](README-ru.md)
 
 > 下一代高性能跨平台Terraria模组加载器
